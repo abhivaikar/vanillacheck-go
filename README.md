@@ -1,0 +1,1 @@
+# vanillacheck-go
